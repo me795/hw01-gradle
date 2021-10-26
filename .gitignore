@@ -33,10 +33,10 @@ out
 target
 
 #Idea
-*.iml
-*.iws
-*.ipr
-*.idea
+#*.iml
+#*.iws
+#*.ipr
+#*.idea
 
 #Vagrant
 .vagrant/
